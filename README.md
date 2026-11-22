@@ -65,7 +65,7 @@ _Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada 
 ```
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+04-skills/01- auditor-viabilidade-ideias.md
 ```
 
 ### Minha Delegação
