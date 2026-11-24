@@ -232,4 +232,4 @@ NOTA DA REDAÇÃO (AUDITORIA DA EDIÇÃO)
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+Essa versão inicial já ajudou muito manter-me atualizado diariamente com os principoais assuntos de IA.
