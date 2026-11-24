@@ -141,7 +141,94 @@ Assim que confirmar, executo a criação completa da Skill.
 
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+# ========================================================================
+
+GAZETA DIÁRIA DA INTELIGÊNCIA ARTIFICIAL
+"Crônicas Verificadas do Progresso Computacional"
+
+## Edição de: Terça-feira, 24 de Novembro de 2026 | Janela: Últimas 24h
+
+Seleção Editorial: 6 matérias verificadas (0 Artigos | 6 Vídeos)
+
+### MANCHETE DO DIA (DESTAQUE PRINCIPAL)
+
+**01. RECONDUÇÃO DE JENSEN HUANG À PRESIDÊNCIA DA NVIDIA REACENDE CONFIANÇA DE INVESTIDORES EM WALL STREET**
+
+Em entrevista concedida à emissora CNBC, o investidor Brad Gerstner, da gestora Altimeter, manifestou apoio à decisão do conselho de administração da Nvidia de reintegrar o cofundador Jensen Huang ao posto de diretor-executivo. Segundo Gerstner, o colegiado agiu com sensatez ao reavaliar sua deliberação anterior após o encerramento de uma investigação de 14 meses conduzida por agências federais e pelo Departamento de Justiça dos Estados Unidos, que não apontou provas de violação às leis de segurança nacional.
+
+O executivo sustentou que, embora Huang tenha reconhecido um erro de conduta pessoal ao qual pediu desculpas, o episódio envolvia o respeito ao devido processo legal e não justificava um julgamento precipitado. Gerstner rejeitou pedidos imediatos de reforma na estrutura enxuta da Nvidia — conhecida por seus cerca de 60 subordinados diretos —, exaltando a capacidade da fabricante de lançar novas gerações de chips e infraestrutura de IA em ritmo anual.
+
+* **Canal:** CNBC Television | **Idioma Original:** Inglês
+* **Audiência Verificada:** 110.159 visualizações
+* **Acesso e Miniatura Original:** [http://www.youtube.com/watch?v=XAVqD9E7upg](http://www.youtube.com/watch?v=XAVqD9E7upg)
+
+---
+
+### CRÔNICAS E DESPACHOS DA IMPRENSA (ARTIGOS)
+
+*Nota da Redação: Nesta edição, o serviço de busca na web para portais de texto não esteve disponível para consulta direta. Em estrita observância à regra editorial de não inventar manchetes, links ou fontes, esta seção permanece sem despachos escritos, concentrando-se a apuração verificada nos registros audiovisuais abaixo.*
+
+---
+
+### CINEJORNAL E TRANSMISSÕES (VÍDEOS NO YOUTUBE)
+
+**02. FUTUROS DE WALL STREET ENSAIOU REAÇÃO APÓS SEMANA SEVERA DE LIQUIDAÇÃO NO SETOR DE IA**
+
+A transmissão *Bloomberg Daybreak Europe* registrou a tentativa de recuperação dos índices futuros norte-americanos após a forte onda vendedora da semana anterior, que empurrou o Nasdaq para território de correção e apagou os ganhos acumulados do índice em 2026. Estrategistas ouvidos pela emissora apontaram uma divergência marcante no setor de semicondutores: o índice da Filadélfia recuou cerca de 40% desde o pico de junho, ao passo que as estimativas de lucro das companhias avançaram perto de 35% no mesmo período.
+
+O noticiário destacou ainda a pressão competitiva crescente após a estreia da Anthropic na bolsa, com relatos de que Apple e Microsoft desenvolvem modelos próprios de linguagem, somados à ofensiva de empresas chinesas e à queda contínua no preço dos tokens. Na esfera regulatória, o representante comercial dos EUA, Jamieson Greer, defendeu o endurecimento recente nos controles de exportação de chips avançados como medida para fechar brechas de acesso remoto em terceiros países, sem caráter de proibição absoluta.
+
+* **Canal:** Bloomberg Television | **Idioma Original:** Inglês
+* **Audiência Verificada:** 45.432 visualizações
+* **Acesso e Miniatura Original:** [http://www.youtube.com/watch?v=DeiqiwVsFgY](http://www.youtube.com/watch?v=DeiqiwVsFgY)
+
+**03. RETORNO DE HUANG IMPULSIONA NVIDIA EM 31%, MAS DESPERTA DURA REAÇÃO NO CONGRESSO AMERICANO**
+
+O telejornal *Meet the Press NOW*, da NBC News, relatou a reação explosiva dos mercados à volta unânime de Jensen Huang ao comando da Nvidia: os papéis da empresa dispararam 31% no pregão — recuperando cerca de US$ 1 trilhão em valor de mercado — e puxaram o Nasdaq para uma alta próxima de 7%. O presidente Donald Trump confirmou ter dialogado com membros do conselho e assegurado que o executivo não representa ameaça à segurança nacional.
+
+Em Washington, contudo, a recondução provocou ceticismo bipartidário. A senadora democrata Elizabeth Warren classificou a decisão como "chocante", defendeu a instalação de rastreadores em chips para coibir desvios à China e exigiu investigação rigorosa, enquanto o Comitê Bancário do Senado marcou audiência pública com Huang para a próxima semana; paralelamente, persistem apurações da SEC sobre práticas contábeis da companhia e do Departamento de Justiça sobre suposto contrabando de processadores via Singapura.
+
+* **Canal:** NBC News | **Idioma Original:** Inglês
+* **Audiência Verificada:** 44.882 visualizações
+* **Acesso e Miniatura Original:** [http://www.youtube.com/watch?v=KA3KifJIAgM](http://www.youtube.com/watch?v=KA3KifJIAgM)
+
+**04. DÚVIDAS SOBRE GASTOS DE CAPITAL, DÍVIDA E ENERGIA PRESSIONAM AÇÕES DE IA NOS EUA E NA ÁSIA**
+
+No programa *Morning Bid*, a agência Reuters examinou os fundamentos por trás do mês turbulento para as companhias de inteligência artificial, com destaque para a queda superior a 50% do índice sul-coreano Kospi desde sua máxima. Analistas ouvidos pela redação apontaram que o mercado ainda busca respostas claras sobre o retorno financeiro efetivo dos investimentos bilionários em infraestrutura, a sustentabilidade do chamado financiamento circular entre fornecedores e clientes, o encarecimento do crédito para novas operadoras de nuvem (*neoclouds*) e a escassez de energia elétrica para novos data centers.
+
+A análise ressaltou que o cenário de juros mais elevados — diante da expectativa de novo aperto monetário pelo Federal Reserve e da iminente divulgação do índice de inflação PCE — reduz a tolerância dos investidores a projetos altamente alavancados. Para os comentaristas, o ritmo futuro da construção de data centers enfrentará tanto restrições financeiras quanto maior escrutínio político no novo Congresso americano.
+
+* **Canal:** Reuters | **Idioma Original:** Inglês
+* **Audiência Verificada:** 17.388 visualizações
+* **Acesso e Miniatura Original:** [http://www.youtube.com/watch?v=wRUe2L-_1yE](http://www.youtube.com/watch?v=wRUe2L-_1yE)
+
+**05. SEMICONDUTORES EUROPEUS ESBOÇAM ALÍVIO E OPERADORA DEFENDE IA SOBERANA NA BORDA**
+
+A cobertura matinal da Bloomberg em Londres acompanhou a recuperação das ações europeias de tecnologia, lideradas pela holandesa ASML, que avançou entre 4% e 5% na abertura acompanhando o repique do Nasdaq. Estrategistas de mercado, porém, mantiveram tom cauteloso, advertindo que o movimento pode refletir cobertura de posições vendidas em uma semana encurtada pelo feriado de Ação de Graças, com as atenções voltadas ao balanço da Dell como termômetro da demanda por servidores de IA.
+
+Na mesma edição, Dawn Childs, CEO da operadora europeia de data centers nLighten — detentora de 34 unidades em sete países —, argumentou que a monetização duradoura da inteligência artificial migrará dos megacentros de treinamento para a computação de borda (*edge*), onde ocorre a inferência próxima às empresas. A executiva defendeu que a Europa estruture uma infraestrutura soberana apoiada em modelos menores e mais eficientes, integrados de forma cooperativa às redes elétricas locais.
+
+* **Canal:** Bloomberg Television | **Idioma Original:** Inglês
+* **Audiência Verificada:** 13.231 visualizações
+* **Acesso e Miniatura Original:** [http://www.youtube.com/watch?v=amYNpTLDUAM](http://www.youtube.com/watch?v=amYNpTLDUAM)
+
+**06. ESTREIA DA ANTHROPIC PERDE FÔLEGO EM WALL STREET E PROJETO CONTRA DEEPFAKES AVANÇA NO CAPITÓLIO**
+
+O boletim *AI Weekly*, da Reuters, trouxe um balanço dos principais acontecimentos da semana, abrindo com o arrefecimento da aguardada oferta pública inicial (IPO) da Anthropic, avaliada em US$ 1,5 trilhão: as ações encerraram a sexta-feira abaixo de US$ 89, recuo de 8,5% frente ao pregão anterior. O informativo também registrou a advertência do presidente Donald Trump de impor pesadas tarifas a empresas americanas que ergam data centers no exterior, além de sua oposição a regulações globais de IA durante a cúpula da APEC na China.
+
+O despacho destacou ainda que a Nvidia projetou receita de US$ 130 bilhões para o quarto trimestre — cifra acima das estimativas de analistas —, sinalizando vigor comercial apesar da turbulência societária. No campo legislativo, Paris Hilton uniu-se a parlamentares como Alexandria Ocasio-Cortez no Congresso dos EUA para pressionar pela aprovação do *Defiance Act*, proposta voltada a assegurar reparação judicial a vítimas de *deepfakes* sexuais não consensuais.
+
+* **Canal:** Reuters | **Idioma Original:** Inglês
+* **Audiência Verificada:** 10.293 visualizações
+* **Acesso e Miniatura Original:** [http://www.youtube.com/watch?v=-lkjO6_RFSU](http://www.youtube.com/watch?v=-lkjO6_RFSU)
+
+========================================================================
+NOTA DA REDAÇÃO (AUDITORIA DA EDIÇÃO)
+
+* **Total publicado:** 6/10 itens.
+* **Escopo temporal efetivamente utilizado:** Últimas 24 horas (publicações de 23 de novembro de 2026, apuradas na virada para 24 de novembro de 2026).
+* **Observações de apuração:** A ferramenta de busca na web para matérias em texto não foi acionada nesta sessão por restrição operacional vigente; por essa razão, a edição foi composta integralmente por transmissões verificadas de emissoras e agências internacionais consolidadas no YouTube (CNBC Television, Bloomberg Television, NBC News e Reuters), ordenadas rigorosamente pelo número real de visualizações públicas. Nenhum artigo, dado ou métrica foi inventado para completar o teto de 10 itens.
+========================================================================
 
 ### Como Foi para Você
 
